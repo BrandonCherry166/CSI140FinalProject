@@ -4,4 +4,5 @@ project(FinalProject)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(FinalProject main.cpp
-        header.h)
+        header.h
+        cmake-build-debug/functions.cpp)

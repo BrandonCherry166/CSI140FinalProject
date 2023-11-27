@@ -49,6 +49,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Users/lponl/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lponl/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lponl/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Users/lponl/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -149,8 +164,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/lponl/CLionProjects/FinalProject/cmake-build-debug",
-		"source" : "C:/Users/lponl/CLionProjects/FinalProject"
+		"build" : "C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug",
+		"source" : "C:/Users/lponl/CLionProjects/CSI140FinalProject"
 	},
 	"version" : 
 	{
