@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/lponl/CLionProjects/CSI140FinalProject/functions.cpp">
+			<Option target="FinalProject"/>
+		</Unit>
 		<Unit filename="C:/Users/lponl/CLionProjects/CSI140FinalProject/main.cpp">
 			<Option target="FinalProject"/>
 		</Unit>

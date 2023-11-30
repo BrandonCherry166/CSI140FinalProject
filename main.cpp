@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     string fileName = "adventurelog.txt";
     ifstream fin (fileName);
-    ofstream fout (fileName);
+    ofstream fout ("out"+fileName);
 
     if(!fin.is_open())
     {
