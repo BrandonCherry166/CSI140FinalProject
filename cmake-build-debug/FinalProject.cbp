@@ -82,12 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug/functions.cpp">
-			<Option target="FinalProject"/>
-		</Unit>
-		<Unit filename="C:/Users/lponl/CLionProjects/CSI140FinalProject/header.h">
-			<Option target="FinalProject"/>
-		</Unit>
 		<Unit filename="C:/Users/lponl/CLionProjects/CSI140FinalProject/main.cpp">
 			<Option target="FinalProject"/>
 		</Unit>

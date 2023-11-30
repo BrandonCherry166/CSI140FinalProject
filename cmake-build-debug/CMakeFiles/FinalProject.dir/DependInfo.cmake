@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug/functions.cpp" "CMakeFiles/FinalProject.dir/functions.cpp.obj" "gcc" "CMakeFiles/FinalProject.dir/functions.cpp.obj.d"
   "C:/Users/lponl/CLionProjects/CSI140FinalProject/main.cpp" "CMakeFiles/FinalProject.dir/main.cpp.obj" "gcc" "CMakeFiles/FinalProject.dir/main.cpp.obj.d"
   )
 
