@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include "header.h"
+
 using namespace std;
 int main(){
     string fileName = "adventurelog.txt";
@@ -12,6 +14,8 @@ int main(){
         cerr << fileName << " file doesn't exist";
         return -1; //End Immediately
     }
+
+    print(fileName);
 
     fout << "Welcome to the Adventure! " << endl;
 

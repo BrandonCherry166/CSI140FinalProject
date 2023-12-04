@@ -11,4 +11,6 @@ file(GLOB TXTS "*txt")
 file(COPY ${TXTS} DESTINATION ${CMAKE_BINARY_DIR})
 
 FILE(GLOB SOURCES "*.cpp")
-add_executable(FinalProject ${SOURCES})
+add_executable(FinalProject ${SOURCES}
+        header.h)
+
