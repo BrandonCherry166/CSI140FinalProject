@@ -8,4 +8,6 @@
 #include <string>
 using namespace std;
 void print (string sentence);
+int splitString(string str, string* out, char split);
+string actionList(string actions[], int actionLen);
 #endif //FINALPROJECT_HEADER_H
