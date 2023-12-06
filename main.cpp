@@ -11,11 +11,13 @@ const string ACTIONS[] = {"stay calm/get loud/scatter","","",""}; //This stores 
 const string NEXT_EVENTS[] = {"1/2/3","","",""}; //Choosing an action will move the user to another event. This stores the list of next events, also using a slash-seperated string. Each one results from the action in the same position - so if the action choices were run/hide, and the user types 'hide', the second slash-seperated number would be the event to go to.
 
 const short MAX_ACTIONS = 10; //Maximum number of actions for one event. Should be as small as possible to save memory.
-const string FILENAME = "adventurelog.txt"; //Target for writing down the logs
+const string FILENAME = "outadventurelog.txt"; //Target for writing down the logs
 
 int main(){
+    int decisionCount = 0;
     short currentEvent = 0; //Keeps track of the current event the user is on
     ofstream fout (FILENAME);
+    fout << "Welcome to the Adventure Log. This will log all of your decisions!" << endl;
 
     while (currentEvent != -1) //Mainloop
     {
@@ -32,7 +34,11 @@ int main(){
             cout << "\n";
             print("You order them to ...");
             string chosenAction;
+
+
             getline(cin, chosenAction);
+            decisionCount++;
+            fout << "Decision #" << decisionCount <<": " << chosenAction << endl;
             cout << "\n";
             for (int i = 0; i < actionLen; i++) //Check if the user input matches anything in the list of valid actions
             {
