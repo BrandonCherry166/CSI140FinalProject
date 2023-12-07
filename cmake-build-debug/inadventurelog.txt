@@ -1,0 +1,5 @@
+Name
+261
+Eagle
+
+Please enter your name on line 1, your troop number (int) on line 2, and rank on line 3 (string)

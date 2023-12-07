@@ -12,11 +12,25 @@ const string NEXT_EVENTS[] = {"1/2/3","","",""}; //Choosing an action will move 
 
 const short MAX_ACTIONS = 10; //Maximum number of actions for one event. Should be as small as possible to save memory.
 const string FILENAME = "outadventurelog.txt"; //Target for writing down the logs
+const string INPUTNAME = "inadventurelog.txt"; //Target for reading from the log
+
 
 int main(){
     int decisionCount = 0;
     short currentEvent = 0; //Keeps track of the current event the user is on
+    ifstream fin(INPUTNAME);
     ofstream fout (FILENAME);
+    string name;
+    int troopNumber;
+    string rank;
+
+    fin >> name >> troopNumber >> rank;
+    string intro = "Welcome, " + name + ", of Troop ";
+    string intro2 = ". You are a " + rank + " scout and the SPL of your troop!";
+
+    print (intro);
+    print (to_string(troopNumber));
+    print (intro2);
     fout << "Welcome to the Adventure Log. This will log all of your decisions!" << endl;
 
     while (currentEvent != -1) //Mainloop
