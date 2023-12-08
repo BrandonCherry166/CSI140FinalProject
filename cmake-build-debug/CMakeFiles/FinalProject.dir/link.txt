@@ -1,3 +1,0 @@
-C:\Users\lponl\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\FinalProject.dir/objects.a
-C:\Users\lponl\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\FinalProject.dir/objects.a @CMakeFiles\FinalProject.dir\objects1.rsp
-C:\Users\lponl\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FinalProject.dir/objects.a -Wl,--no-whole-archive -o FinalProject.exe -Wl,--out-implib,libFinalProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FinalProject.dir\linkLibs.rsp

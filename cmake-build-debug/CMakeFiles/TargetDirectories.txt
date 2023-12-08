@@ -1,3 +1,0 @@
-C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug/CMakeFiles/FinalProject.dir
-C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lponl/CLionProjects/CSI140FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
