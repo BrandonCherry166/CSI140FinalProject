@@ -13,7 +13,7 @@ void print(string sentence) //Takes in a string and prints it out letter by lett
     for (int k = 0; k < sentence.size();k++)
     {
         cout << sentence[k];
-        Sleep(210);
+        Sleep(0);//210);
     }
 }
 
@@ -27,7 +27,7 @@ int splitString(string str, string* out, char split, short maxValues) //Splits a
         {
             ss << str[i];
         }
-        if (str[i] == split or i == str.size() - 1) //If it is the split character, or this is the last character, save the current chunk
+        if (str[i] == split) //If it is the split character save the current chunk
         {
             out[chunkNum] = ss.str();
             ss.str("");

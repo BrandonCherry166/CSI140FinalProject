@@ -1,0 +1,373 @@
+:: StoryTitle
+Scouting
+
+
+:: StoryData
+{
+  "ifid": "F7CC7C37-BA7E-4A84-B7FF-9BBC1F99E5AD",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Bear!",
+  "zoom": 1
+}
+
+:: Bear! {"position":"600,200","size":"100,100"}
+Paniced shouts fill your campsite. A bear knocked over one of the younger Scouts' tents. The Scouts who were inside cautiously scoot out of the flaps as the bear sniffs the crumpled fabric. Rain pours down around you.
+
+[[Get Loud!]]
+[[Calm Down]]
+[[Run Away!]]
+
+:: Back Off {"position":"975,125","size":"100,100"}
+You and the Scouts slowly back off down the hill. You keep a careful eye on the bear until it's out of sight. Then, it's just you and the troop scattered on a hillside.
+
+[[Back to Camp]]
+[[Keep Going]]
+
+
+:: Back to Camp {"position":"925,275","size":"100,100"}
+You and your bedraggled troop start to march back up the hill toward camp. But you've been walking for only a few minutes when a roar splits the air and you hear heavy footsteps beating toward you.
+
+[[Run Away!]]
+
+
+:: Boulder {"position":"1450,1050","size":"100,100"}
+The group camps against the side of a bolder, spreading out one tarp to cover them. It's cozy, but warm and dry as anywhere can get.
+
+[[Sleep]]
+
+
+:: Calm Down {"position":"725,200","size":"100,100"}
+You try and get the troop to quiet down. You speak calmly and clearly to the bear, assuring it that you're no threat. Slowly, it starts to back down.
+
+[[Back Off]]
+
+
+:: Check out the weird vines {"position":"1000,800","size":"100,100"}
+You poke at one of the thick, black vines that seem common in this valley. It feels rubbery to the touch. You cut a gash into it with your knife and see a flash of copper.
+
+[[Go deeper]]
+[[Get the axe]]
+[[Move on]]
+
+
+:: Climb down with a buddy {"position":"1550,1550","size":"100,100"}
+You crack out your headlamp, bolster your confidence, and pick one Scout to descend with you while your ASPLs watch the troop. Step by step, together, you descend into the pit.
+
+[[Look around the hole]]
+
+
+:: Climb down with the troop {"position":"1425,1550","size":"100,100"}
+You crack out your headlamp, hype up the group, and step up to the edge of the hole. Step by step, together, you descend into the pit.
+
+[[Look around the hole]]
+
+
+:: Don't Stop Now! {"position":"1000,400","size":"100,100"}
+Finally, the noise of the bear fades out behind you, and you're able to drop the troop down to more of a walking pace. You take a headcount, and against all odds, you all made it.
+
+[[Keep Going]] [[Back to Camp]]
+
+
+:: Encourage them {"position":"1150,550","size":"100,100"}
+"You just gotta tough it out for a little bit, alright? We'll find a spot to set down soon."
+
+The Scout nods.
+
+[[Move on]]
+
+
+:: Get Loud! {"position":"800,0","size":"100,100"}
+You order the troop to get as loud as possible. The sounds of shrieking and clanging gear fills the air until it's nearly impossible to think. The bear joins the cacophony, roaring as it lashes out at a few nearby Scouts. 
+
+[[Run Away!]]
+
+
+:: Get out bandages {"position":"1150,375","size":"100,100"}
+The guy carrying the medkit digs out a roll of bandages and helps the younger Scout patch up their bleeding wrist. The Scout gets shakily back to their feet.
+
+[[Stop for a rest]]
+[[Joke about it]]
+[[Encourage them]]
+[[Move on]]
+
+
+:: Get the axe {"position":"1125,925","size":"100,100"}
+You take the axe from one of the Scouts and give the vine a firm chop. The left half reels back from the cut, like it's alive. Inside the cut end, you can see a thick bundle of copper wiring. It slumps back to the ground, a short distance away from you.
+
+[[Move on]]
+
+
+:: Go deeper {"position":"1000,925","size":"100,100"}
+You press deeper into the vine, but as soon as you put the weight of your thumb onto the blade of your knife, an electric shock shoots up your arm, and you're forced to recoil.
+
+[[Move on]]
+
+
+:: Go forth {"position":"1550,1800","size":"100,100"}
+You venture deeper into the hallway until you pass a pair of doors, one on your left, and one on your right. The pulsing is louder. Will you take one, or continue straight?
+
+[[Left]]
+[[Right]]
+[[Straight]]
+
+
+:: Go home {"position":"1575,2750","size":"100,100"}
+The end.
+
+
+:: Hello? {"position":"1575,2350","size":"100,100"}
+Do you attempt to speak to it further?
+
+[[Leave. Now.]]
+[[What are you?]]
+[[Why are you here?]]
+[[What do you want?]]
+[[Uhh ... guys?]]
+[[Take the axe]]
+
+
+:: Help her! {"position":"1275,1700","size":"100,100"}
+The whole troop joins in, trying to pull the rope back. It wavers, moving out, then getting pulled back ... until finally snapping. There's only one option now ...
+
+[[Climb down with a buddy]] 
+[[Climb down with the troop]] 
+
+
+:: Hold for 15 minutes {"position":"1000,675","size":"100,100"}
+The Scouts take the chance to get out some snacks to perk up their energy. You'll also have some time to do something.
+
+[[Check out the weird vines]]
+[[Scout ahead]]
+[[Talk to the troop]]
+
+
+:: Hold for 5 minutes {"position":"875,675","size":"100,100"}
+The Scouts get a chance to catch their breath and sip some water.
+
+[[Move on]]
+[[Hold for 15 minutes]]
+
+
+:: Joke about it {"position":"1275,550","size":"100,100"}
+"Hah, alright there? Nothing broken? Good."
+
+The Scout nods a few times, then blinks and looks away.
+
+[[Move on]]
+
+
+:: Keep Going {"position":"1150,250","size":"100,100"}
+You push on further down the hill. The slope slowly starts to get gentler, but it still feels like it's going on forever. The slippery wet leaves certainly aren't helping matters. One of the Scouts slips and bangs their wrist against a thick vine lying on the ground.
+
+[[Get out bandages]]
+[[Offer them a hand up]]
+
+
+:: Leave it alone {"position":"1700,1900","size":"100,100"}
+You order the Scout to leave the object alone. Sadly, he obeys.
+
+[[Turn around]]
+
+
+:: Leave. Now. {"position":"1775,2300","size":"100,100"}
+Vines have covered the exit.
+
+[[Hello?]]
+
+
+:: Left {"position":"1425,1800","size":"100,100"}
+In the light of your flashlight, you can see papers taped to every surface of this room, including a large island in its center. You approach one, but you can't make any sense of the strange drawing.
+
+[[Look at the drawings]]
+[[Turn around]]
+
+
+:: Let go! {"position":"1150,1700","size":"100,100"}
+The Scout lets go of the rope and it disappears into the pit. You all look at eachother. There's only one option now ...
+
+[[Climb down with a buddy]] 
+[[Climb down with the troop]] 
+
+
+:: Let him {"position":"1825,1900","size":"100,100"}
+The Scout picks up the object. "It's a flashlight!" he announces. Then he glances behind the barrel it's standing next to and gags. "I guess that's its owner."
+
+[[Turn around]]
+
+
+:: Look around the hole {"position":"1550,1675","size":"100,100"}
+It's pitch black down here. Some fresh blood stains the ground from the Scout who fell ... and some stains that are clearly older. Over top of the floor, the vines swarm. They wobble under your boots and hurt your toes when you kick them out of the way. The corridor itself is lined with metal, heading deeper into the darkness. And there's some sort of ... pulsing noise?
+
+[[Go forth]]
+
+
+:: Look at the drawings {"position":"1275,1925","size":"100,100"}
+One of the Scouts is able to identify the drawings. "These are star charts." she says, "Maybe this was some sort of astronomical facility?"
+
+"In the middle of the woods?" another asks.
+
+The first shrugs.
+
+[[Turn around]]
+
+
+:: Move on {"position":"1425,550","size":"100,100"}
+You call for the group to keep hiking and so they do, with only a minimal amount of disgruntled muttering. You can't blame them; you look down at your watch and realize it's 4 in the morning. You're going to need some shelter for real soon. You see a few promising locations up ahead.
+
+[[Stand of thick trees]]
+[[Boulder]]
+[[Stone ruins]]
+
+
+:: Offer them a hand up {"position":"1275,375","size":"100,100"}
+Another Scout offers the fallen one a hand up. They get shakily back to their feet.
+
+[[Stop for a rest]]
+[[Joke about it]]
+[[Encourage them]]
+[[Move on]]
+
+
+:: Onward {"position":"1425,1300","size":"100,100"}
+The troop keeps walking, hoping to eventually run into a familiar sight. These woods aren't that big, and there's several familiar landmarks that you should run into eventually. 
+
+But then, there's a shout. You look behind you just in time to see one of your Scouts falling through the leaf litter into a deep hole in the ground. There's only one thing to do.
+
+[[Peer down]]
+
+
+:: Peer down {"position":"1425,1425","size":"100,100"}
+The walls of the hole are smooth steel, with a ladder leading down. Your troopmate took the hard way, however, and you can see them crumpled at the bottom, a 10ft drop. 
+
+[[Toss down a rope]]
+[[Climb down with a buddy]]
+[[Climb down with the troop]]
+
+
+:: Right {"position":"1700,1775","size":"100,100"}
+The right-hand room is full of large tanks and stinks of petrol. One of your Scouts notices something and heads for it.
+
+[[Leave it alone]]
+[[Let him]]
+
+
+:: Run Away! {"position":"800,400","size":"100,100"}
+You yell at the Scouts to run away, then start dashing down the hill. Chaos insues, as the Scouts follow you as best they can, following by roars and crashing. It's clear the bear is still on your tail.
+
+[[Don't Stop Now!]] 
+
+
+:: Scout ahead {"position":"1125,800","size":"100,100"}
+With a buddy, of course, you hike a little bit down the trail, and find a couple spots that might offer some shelter.
+
+[[Stand of thick trees]]
+[[Boulder]]
+[[Stone ruins]]
+
+
+:: Sleep {"position":"1275,1050","size":"100,100"}
+The troop finally gets some rest. 
+
+[[Wake up at 6]]
+[[Wake up at 9]]
+
+
+:: Smash it {"position":"1825,2600","size":"100,100"}
+You bring the axe down on the heart with all your might. You're not going to let this thing hurt your troop. 
+
+The axe cuts a deep gash in the soft metal. Oily black gunk erupts from it. Every vine in the room goes limp. 
+
+[[Go home]]
+
+
+:: Stand of thick trees {"position":"1450,800","size":"100,100"}
+The group sets up camp beneath a few thick trees, which helps shelter them from the rain. The rubbery vines are much thicker here, and a few climb up the tree trunks.
+
+[[Sleep]]
+
+
+:: Stone ruins {"position":"1450,925","size":"100,100"}
+The troop sets up camp in some crumbling stones vaguely in the shape of a home. It's rough, and spooky, but you manage to dig up a few old pieces of sheet metal to hide from the rain.
+
+[[Sleep]]
+
+
+:: Stop for a rest {"position":"1000,550","size":"100,100"}
+The troop stops for a rest. Scouts sit down, get out their water, and take a breather after that terrifying ordeal.
+
+[[Hold for 5 minutes]]
+[[Hold for 15 minutes]]
+
+
+:: Straight {"position":"1550,2075","size":"100,100"}
+You press in deeper. Eventually, you reach a wide-open room. A railing lies in front of you. You step up to it and pan your light across the chamber. Right in the center is a massive, throbbing object, from which the pulsing is emmenating. It is metallic in color, but smooth and organic in shape ... almost like a human heart. Every vine in the room connects to it.
+
+[[Hello?]]
+
+
+:: Take the axe {"position":"1825,2475","size":"100,100"}
+You take the axe in your hand. Do you have the strength to do what it takes?
+
+[[Smash it]]
+
+
+:: Talk to the troop {"position":"875,800","size":"100,100"}
+You go around and check in with some of the troop. Everyone's got something to grumble about, but they seem to appreciate the check-in.
+
+[[Move on]]
+
+
+:: Toss down a rope {"position":"1300,1550","size":"100,100"}
+One of the Scouts gets out a length of rope from her pack and tosses it down. The fallen Scout crawls to it, and ties a bowline around their waist. The Scout at the top starts to pull, but immediately slides forward as something drags the Scout in the pit out of sight. 
+
+[[Let go!]]
+[[Help her!]]
+
+
+:: Turn around {"position":"1550,1925","size":"100,100"}
+You step out into the hallway again, with the doors on either side of you. Where do you want to go?
+
+[[Left]]
+[[Right]]
+[[Straight]]
+
+
+:: Uhh ... guys? {"position":"1325,2475","size":"100,100"}
+One of the Scouts pulls out - of all things - a laptop. He shoves a vine into its side then furiously types.
+
+"There's no way that works ..." one Scout mutters.
+
+Yet, with a crackling of electricity, every vine in the room goes limp.
+
+[[Go home]]
+
+
+:: Wake up at 6 {"position":"1275,1175","size":"100,100"}
+The troop gets some rest, and wakes up feeling a little better. But, it's still dark and rainy, and in the chaos, you've lost the way back to camp. So, there's only one way to go.
+
+[[Onward]]
+
+
+:: Wake up at 9 {"position":"1425,1175","size":"100,100"}
+The troop gets a good amount of rest, and wakes up feeling much better. It's still raining, but at least the sky is light and you can see five feet in front of you. Unfortunately, in the chaos last night, you lost the way back to camp. So, there's only one way to go.
+
+[[Onward]]
+
+
+:: What are you? {"position":"1450,2475","size":"100,100"}
+Your voice echoes around the empty room.
+
+[[Hello?]]
+
+
+:: What do you want? {"position":"1700,2475","size":"100,100"}
+Your voice echoes around the empty room.
+
+[[Hello?]]
+
+
+:: Why are you here? {"position":"1575,2475","size":"100,100"}
+Your voice echoes around the empty room.
+
+[[Hello?]]
