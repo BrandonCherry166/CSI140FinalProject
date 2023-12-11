@@ -20,6 +20,9 @@ int main(){
 
     //Reading in the story
     ifstream fin(STORYNAME);
+    if (!fin.is_open()) {
+        throw runtime_error("Cannot find " + STORYNAME);
+    }
     string line;
     string firstEvent;
     int eventNum = -2; //Find the total number of events in the file so we know how big the arrays need to be. Starts at -2 because two file headers use the same notation, even though they're not events. There should always be two of them, though
